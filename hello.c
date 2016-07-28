@@ -2,10 +2,11 @@
 
 void main()
 {
-<<<<<<< HEAD
+
 printf("\nhello world!");
-=======
-printf("hello world!");
->>>>>>> master
+
+printf("\nhello world!");
+
+printf("nope");
 
 }
