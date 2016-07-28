@@ -9,4 +9,6 @@ printf("\nhello world!");
 
 printf("nasdasdope");
 
+printf("Beatstream is KAMI GAME");
+
 }
